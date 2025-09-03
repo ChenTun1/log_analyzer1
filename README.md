@@ -49,7 +49,10 @@ python log_analyzer.py access.log
     "404": 1,
     "500": 1
   },
-  "busiest_hour": 11
+  "busiest_hour": 11, 
+  "invalid_json_lines": 0,
+  "invalid_timestamp_lines": 0
+
 }
 ```
 
